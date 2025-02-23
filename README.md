@@ -2,20 +2,20 @@
 This Heart Disease Prediction application uses machine learning to assess a patient's likelihood of having heart disease based on key health metrics. The app features a user-friendly interface powered by Streamlit, where users input health data to receive instant predictions.
 
 # 🚀 Features
-Machine Learning-Based Prediction – Uses a trained model to evaluate heart disease risk.
-Interactive UI – Built with Streamlit for seamless user experience.
-Data Preprocessing & Visualization – Handles data cleaning, feature scaling, and exploratory analysis.
-Model Training & Evaluation – Compares multiple classifiers (Logistic Regression, Random Forest, SVM) to select the best-performing model.
-SQLite Database Integration – Stores and processes heart disease datasets.
+* Machine Learning-Based Prediction – Uses a trained model to evaluate heart disease risk.
+* Interactive UI – Built with Streamlit for seamless user experience.
+* Data Preprocessing & Visualization – Handles data cleaning, feature scaling, and exploratory analysis.
+* Model Training & Evaluation – Compares multiple classifiers (Logistic Regression, Random Forest, SVM) to select the best-performing model.
+* SQLite Database Integration – Stores and processes heart disease datasets.
 
 # 🏗️ Tech Stack
-Python (Data Processing & ML)
-Streamlit (Web App)
-Scikit-learn (Model Training)
-Joblib (Model Persistence)
-Pandas & NumPy (Data Handling)
-Matplotlib & Seaborn (Data Visualization)
-SQLite (Database)
+* Python (Data Processing & ML)
+* Streamlit (Web App)
+* Scikit-learn (Model Training)
+* Joblib (Model Persistence)
+* Pandas & NumPy (Data Handling)
+* Matplotlib & Seaborn (Data Visualization)
+* SQLite (Database)
 
 # 📂 Project Structure
 app.py – Streamlit-based web interface for user input and prediction.
