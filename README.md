@@ -24,7 +24,6 @@ This Heart Disease Prediction application uses machine learning to assess a pati
 
 # 🔧 How to Run
 Clone the repository:
-
 git clone https://github.com/seanandersxn/Heart-Disease-Prediction.git  
 cd Heart-Disease-Prediction  
 
