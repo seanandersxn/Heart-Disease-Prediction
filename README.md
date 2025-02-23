@@ -18,9 +18,9 @@ This Heart Disease Prediction application uses machine learning to assess a pati
 * SQLite (Database)
 
 # 📂 Project Structure
-app.py – Streamlit-based web interface for user input and prediction.
-itdaa.py – Data preprocessing, visualization, and storage in SQLite.
-trainmodel.py – ML model training, evaluation, and selection of the best model.
+* app.py – Streamlit-based web interface for user input and prediction.
+* itdaa.py – Data preprocessing, visualization, and storage in SQLite.
+* trainmodel.py – ML model training, evaluation, and selection of the best model.
 
 # 🔧 How to Run
 Clone the repository:
