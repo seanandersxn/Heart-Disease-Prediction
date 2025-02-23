@@ -1,6 +1,3 @@
-# Heart-Disease-Prediction
-ITDAA4-B12
-
 # Heart Disease Prediction
 This Heart Disease Prediction application uses machine learning to assess a patient's likelihood of having heart disease based on key health metrics. The app features a user-friendly interface powered by Streamlit, where users input health data to receive instant predictions.
 
